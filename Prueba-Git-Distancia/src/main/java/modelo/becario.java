@@ -6,6 +6,8 @@ public class becario {
 		// TODO Auto-generated method stub
 		
 		System.out.println ("Trabajo duro del becario");
+		
+		System.out.println ("segundo dia duro del becario");
 
 	}
 
