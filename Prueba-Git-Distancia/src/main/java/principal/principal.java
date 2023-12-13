@@ -14,8 +14,9 @@ public class principal {
 	System.out.println ("Estoy muy contento con mi programa dificilisimo");
 	
 	System.out.println ("Version gitHub");
+	System.out.println ("Version editada por un becario el domingo");
 
-	System.out.println ("Version gitHub");
+	System.out.println ("Version editada por un becario competente");
 	
 
 	}
