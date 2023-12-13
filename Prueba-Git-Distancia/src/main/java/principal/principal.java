@@ -16,7 +16,12 @@ public class principal {
 	System.out.println ("Version gitHub");
 	System.out.println ("Version editada por un becario el domingo");
 
+
 	System.out.println ("Version editada por un becario competente");
+
+	
+	System.out.println ("sigue trabajando en la rama master");
+
 	
 
 	}
