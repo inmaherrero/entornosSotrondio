@@ -22,7 +22,7 @@ public class principal {
 	
 	System.out.println ("sigue trabajando en la rama master");
 
-	
+	System.out.println ("trabajo en equipo");
 
 	}
 
